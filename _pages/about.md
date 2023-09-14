@@ -18,7 +18,8 @@ redirect_from:
     
 Research Experience
 ======
-<font size=5 >Metadynamics with Machine Learning Potentials</font>   
+<font size=4 >Metadynamics with Machine Learning Potentials</font>   *University of Saskachewan, Saskatoon, Canada*      July.2023--Present
+*Summer intern* Supervisor : Prof. Yansun Yao
 
 Getting started
 ======
