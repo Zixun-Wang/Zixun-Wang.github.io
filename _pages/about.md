@@ -18,9 +18,10 @@ redirect_from:
 Research Experience
 ======
 * <font size=5>Metadynamics with Machine Learning Potentials</font>   
-* *University of Saskachewan, Saskatoon, Canada*      
-* *Summer intern*  $~~~~~$ Supervisor : Prof. Yansun Yao  <p align="right">July.2023--Present</p>
-I have attempted to use machine learning molecular dynamics potentials for Metadynamics simulations to study phase transitions. In comparison to traditional molecular dynamics, this method allows for simulations at a larger scale (around 500,000 atoms). I have already conducted benchmarks on Si and GaN. We hope that it can address the phase transition process of compressing onion carbon into diamond.
+  * *Summer internship at University of Saskachewan, Saskatoon, Canada*      
+  * Supervisor : Prof. Yansun Yao
+  * July.2023--Present
+  * I have attempted to use machine learning molecular dynamics potentials for Metadynamics simulations to study phase transitions. In comparison to traditional molecular dynamics, this method allows for simulations at a larger scale (around 500,000 atoms). I have already conducted benchmarks on Si and GaN. We hope that it can address the phase transition process of compressing onion carbon into diamond.
 
 Getting started
 ======
