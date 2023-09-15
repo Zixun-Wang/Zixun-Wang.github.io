@@ -59,3 +59,8 @@ Honors
 
 Activities
 ======
+* Nagoya Univerisity-Jilin Univeristy Online Seminar Program 2020/2021/2022
+* The 6th Chinese Conference on Statistical Physics and Complex Systems Summer School 2021
+* Cambridge Academic Program ： Statistical Physics 2021
+* Cambridge Academic Program ： Deep learning and Quantum Information 2022
+* Tsinghua University Summer School for Elite Talents in Basic Disciplines Program 2022 
