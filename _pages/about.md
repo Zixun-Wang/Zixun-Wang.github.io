@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Education
+======
 * Institute of Physics, Chinese Academy of Sciences
   * Undergraduate Student in Jici Yan Honor Program, expected 2024
 
