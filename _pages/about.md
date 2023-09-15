@@ -45,7 +45,7 @@ The results are being submitted as a research paper, and a preprint version is a
 <font size=5>4. Gain Mapping of Microstructure Gas Detectors (Micromegas)</font>   
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
   * Supervisor : Professor Ke Han
-  * Jan.2021---Mar.2022
+  * Jan.2022---Mar.2022
   * 1.Measurement of working gases for various components within the Micromegas device and Micromegas operation status at different flow rates.<br>
     2.Presentation of gain mapping under different operating conditions.
 ![Mapping](/images/pandax.png "Mapping of Micromegas in High Gain")
