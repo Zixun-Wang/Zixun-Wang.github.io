@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
+
 Education
 ======
 * Institute of Physics, Chinese Academy of Sciences
