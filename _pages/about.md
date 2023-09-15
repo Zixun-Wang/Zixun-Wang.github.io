@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Education"
+title: "Academic Resume of Zixun Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
