@@ -42,8 +42,8 @@ The results are being submitted as a research paper, and a preprint version is a
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
   * Supervisor : Prof. Ke Han
   * Jan.2021----Mar.2022
-  * 1.Measurement of Working Gases for Various Components within the Micromegas Device and Micromegas Operation Status at Different Flow Rates.<br>
-    2.Presentation of Gain Mapping under Different Operating Conditions.
+  * 1.Measurement of working gases for various components within the Micromegas device and Micromegas operation status at different flow rates.<br>
+    2.Presentation of gain mapping under different operating conditions.
 ![Mapping](/images/pandax.png "Mapping of Micromegas in High Gain")
 
 Skills
