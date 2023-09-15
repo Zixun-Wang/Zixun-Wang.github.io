@@ -30,6 +30,14 @@ Research Experience
   * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the first predicted stable one-dimensional anti-ferroelectric and ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics. The results will be submitted in the form of a research paper.
 ![Editing a markdown file for a talk](/images/structure of o2.png"structure of ferroelectirc nanothread") 
 
+* <font size=5>Ideal Strength Calculation Software</font>   
+  * *Research Assistant at Jilin University, Changchun, China*      
+  * Supervisor : Prof. Hanyu Liu
+  * July.2022--May.2023
+  * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)
+The results are being submitted as a research paper, and a preprint version is available at: 
+ [arxiv](https://arxiv.org/abs/2309.01137)
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
