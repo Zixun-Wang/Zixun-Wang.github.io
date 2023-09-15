@@ -27,7 +27,9 @@ Research Experience
   * *Research Assistant at Westlake University, Hangzhou, China*      
   * Supervisor : Prof. Shi Liu
   * Dec.2022--Present
-  * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the first predicted one-dimensional anti-ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics. The results will be submitted in the form of a research paper.
+  * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the first predicted stable one-dimensional anti-ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics. The results will be submitted in the form of a research paper.
+  
+![structure of ferroelectric nanothread](/images/structure of o2.png)
 
 Getting started
 ======
