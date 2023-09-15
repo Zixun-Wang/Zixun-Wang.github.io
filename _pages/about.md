@@ -23,7 +23,7 @@ Research Experience
   * July.2023---Present
   * I have attempted to use machine learning molecular dynamics potentials for Metadynamics simulations to study phase transitions. In comparison to traditional molecular dynamics, this method allows for simulations at a larger scale (around 500,000 atoms). I have already conducted benchmarks on Si and GaN. We hope that it can address the phase transition process of compressing onion carbon into diamond.
 
-<font size=5>2. One-dimensional Ferroelectric</font>   
+<font size=5>2. One-dimensional Anti-Ferroelectric</font>   
   * *Research Assistant at Westlake University, Hangzhou, China*      
   * Supervisor : Prof. Shi Liu
   * Dec.2022---Present
