@@ -17,20 +17,20 @@ redirect_from:
     
 Research Experience
 ======
-* <font size=5>Metadynamics with Machine Learning Potentials</font>   
+1. <font size=5>Metadynamics with Machine Learning Potentials</font>   
   * *Summer internship at University of Saskachewan, Saskatoon, Canada*      
   * Supervisor : Prof. Yansun Yao
   * July.2023--Present
   * I have attempted to use machine learning molecular dynamics potentials for Metadynamics simulations to study phase transitions. In comparison to traditional molecular dynamics, this method allows for simulations at a larger scale (around 500,000 atoms). I have already conducted benchmarks on Si and GaN. We hope that it can address the phase transition process of compressing onion carbon into diamond.
 
-* <font size=5>One-dimensional Ferroelectric</font>   
+2. <font size=5>One-dimensional Ferroelectric</font>   
   * *Research Assistant at Westlake University, Hangzhou, China*      
   * Supervisor : Prof. Shi Liu
   * Dec.2022--Present
   * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the first predicted stable one-dimensional anti-ferroelectric and ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics. The results will be submitted in the form of a research paper.
 ![Editing a markdown file for a talk](/images/structure of o2.png "structure of ferroelectirc nanothread") 
 
-* <font size=5>Ideal Strength Calculation Software</font>   
+3. <font size=5>Ideal Strength Calculation Software</font>   
   * *Research Assistant at Jilin University, Changchun, China*      
   * Supervisor : Prof. Hanyu Liu
   * July.2022--May.2023
@@ -38,14 +38,9 @@ Research Experience
 The results are being submitted as a research paper, and a preprint version is available at: 
  [arxiv](https://arxiv.org/abs/2309.01137)
 
-Getting started
+Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Programming languages : Python, C/C++, 
 
 Site-wide configuration
 ------
