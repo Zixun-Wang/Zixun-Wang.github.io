@@ -16,7 +16,7 @@ Education
 
 * Jilin University
   * Undergraduate Student majoring in Physics, expected 2024
-  * GPA : 3.9/4.0
+  * GPA : 3.87/4.00 (**Top 2%**)
   * TOEFL : 108/120
     
 Research Experience
@@ -31,7 +31,7 @@ Research Experience
   * *Research Assistant at Westlake University, Hangzhou, China*      
   * Supervisor : Professor Shi Liu
   * Dec.2022---Present
-  * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the first predicted stable one-dimensional anti-ferroelectric and ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics. The results will be submitted in the form of a research paper.
+  * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the **first** predicted stable one-dimensional **anti-ferroelectric** and ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. I calcultated the phonon spectrum and AIMD to confirm their structure and polar stability. The results of the NEB indicate that it has a lower energy barrier for phase transition. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics.The results will be submitted in the form of a research paper.
 ![structure of ferroelectirc nanothread](/images/structure of o2.png "structure of ferroelectirc nanothread") 
 
 <font size=5>3. Ideal Strength Calculation Software</font>   
@@ -40,14 +40,14 @@ Research Experience
   * July.2022---May.2023
   * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)
 The results are being submitted as a research paper, and a preprint version is available at: 
- [arxiv](https://arxiv.org/abs/2309.01137)
+[https://arxiv.org/abs/2309.01137](https://arxiv.org/abs/2309.01137)
 
 <font size=5>4. Gain Mapping of Microstructure Gas Detectors (Micromegas)</font>   
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
   * Supervisor : Professor Ke Han
   * Jan.2022---Mar.2022
   * 1.Measurement of working gases for various components within the Micromegas device and Micromegas operation status at different flow rates.<br>
-    2.Presentation of gain mapping under different operating conditions.
+    2.Presentation of gain mapping under different operating conditions.(Root and C++)
 ![Mapping](/images/pandax.png "Mapping of Micromegas in High Gain")
 
 Skills
@@ -57,7 +57,7 @@ Skills
 
 Honors
 ======
-* National Scholarship 2022
+* National Scholarship(**Top2%** students qualified to apply for this scholarship) 2022
 * University-level outstanding students 2022
 * University-level outstanding student cadres 2022/2023
 
