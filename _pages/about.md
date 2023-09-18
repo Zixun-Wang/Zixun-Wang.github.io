@@ -25,7 +25,7 @@ Research Experience
   * *Summer internship at University of Saskachewan, Saskatoon, Canada*      
   * Supervisor : Professor Yansun Yao
   * July.2023---Present
-  * I have attempted to use machine learning molecular dynamics potentials for Metadynamics simulations to study phase transitions. In comparison to traditional molecular dynamics, this method allows for simulations at a larger scale (around 500,000 atoms). I have already conducted benchmarks on Si and GaN. We hope that it can address the phase transition process of compressing onion carbon into diamond.
+  * I have trained machine learning potentials using a dataset generated from first-principles calculations, utilizing Deepmd-kit. Subsequently, I employed these models for metadynamics simulations and compared the results with ab initio-based metadynamics outcomes. I have already benchmarked this approach in Si and GaN systems, revealing their phase transition pathways under high pressure. Currently, I am continuing this work, aiming to explore extremely large systems.
 
 <font size=5>2. One-dimensional Anti-Ferroelectric</font>   
   * *Research Assistant at Westlake University, Hangzhou, China*      
