@@ -16,7 +16,7 @@ Education
 
 * Jilin University
   * Undergraduate Student majoring in Physics, expected 2024
-  * GPA : 3.87/4.00 (**Top 2%**)
+  * GPA : 3.87/4.00 (**Top 1%**)
   * TOEFL : 108/120
     
 Research Experience
@@ -39,8 +39,8 @@ Research Experience
   * Supervisor : Professor Hanyu Liu
   * July.2022---May.2023
   * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)
-The results are being submitted as a research paper, and a preprint version is available at: 
-[https://arxiv.org/abs/2309.01137](https://arxiv.org/abs/2309.01137)
+A preprint version is available at: 
+[https://arxiv.org/abs/2309.01137](https://arxiv.org/abs/2309.01137)(Just accepted by *Computational Material Science*)
 
 <font size=5>4. Gain Mapping of Microstructure Gas Detectors (Micromegas)</font>   
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
@@ -57,7 +57,7 @@ Skills
 
 Honors
 ======
-* National Scholarship(**Top2%** students qualified to apply for this scholarship) 2022
+* National Scholarship(**Top1%** students qualified to apply for this scholarship) 2022
 * University-level outstanding students 2022
 * University-level outstanding student cadres 2022/2023
 
