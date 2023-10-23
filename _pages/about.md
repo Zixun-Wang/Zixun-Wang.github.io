@@ -18,7 +18,13 @@ Education
   * Undergraduate Student majoring in Physics, expected 2024
   * GPA : 3.87/4.00 (**Top 1%**)
   * TOEFL : 108/120
-    
+
+Publication
+======
+1. [**Zixun Wang**, Xingyu Wang, Xianqi Song, Xinxin Zhang, Hanyu Liu, and Miao Zhang, “Computational prediction of ideal strength for a material,” 2023.](https://arxiv.org/abs/2309.01137)(Accepted by *Computational Material Science* on Oct. 22)
+2. [**Zixun. Wang**, Changming Ke, Jiawei Huang, and Shi Liu, "One-dimensional III-V anti-ferroelectirc nanothreads," 2023. ]
+
+
 Research Experience
 ======
 <font size=5>1. Metadynamics with Machine Learning Potentials</font>   
