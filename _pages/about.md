@@ -22,7 +22,7 @@ Education
 Publication
 ======
 1. [**Zixun Wang**, Xingyu Wang, Xianqi Song, Xinxin Zhang, Hanyu Liu, and Miao Zhang, “Computational prediction of ideal strength for a material,” 2023.](https://arxiv.org/abs/2309.01137)(Accepted by *Computational Material Science* on Oct. 22)
-2. [**Zixun. Wang**, Changming Ke, Jiawei Huang, and Shi Liu, "One-dimensional III-V anti-ferroelectirc nanothreads," 2023. ]
+2. [**Zixun. Wang**, Changming Ke, Jiawei Huang, and Shi Liu, "One-dimensional III-V anti-ferroelectirc nanothreads," 2023.](https://zixun-wang.github.io/files/1D_AFE.pdf)(currently proofreading) 
 
 
 Research Experience
