@@ -38,15 +38,13 @@ Research Experience
   * Supervisor : Professor Shi Liu
   * Dec.2022---Present
   * I employed density functional theory (DFT) to obtain a family of stable 1D nanothreads from cutting III-V two-dimensional triatomic layers anti-ferroelectric materials. This is the **first** predicted stable one-dimensional **anti-ferroelectric** and ferroelectric structure. These nanothreads exhibit anti-ferroelectric phases, along with radial polarization. The radial polarization can be reversed under the influence of an electric field. I calcultated the phonon spectrum and AIMD to confirm their structure and polar stability. The results of the NEB indicate that it has a lower energy barrier for phase transition. This discovery holds significant promise for memory applications, marking a breakthrough in the field of low-dimensional anti-ferroelectrics.The results will be submitted in the form of a research paper.
-![structure from 2D to 1D](/images/Fig1.jpg "structure from 2D to 1D") 
+![structure from 2D to 1D](/images/Fig1.png "structure from 2D to 1D") 
 
 <font size=5>3. Ideal Strength Calculation Software</font>   
   * *Research Assistant at Jilin University, Changchun, China*      
   * Supervisor : Professor Hanyu Liu
   * July.2022---May.2023
-  * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)
-A preprint version is available at: 
-[https://arxiv.org/abs/2309.01137](https://arxiv.org/abs/2309.01137)(Just accepted by *Computational Material Science*)
+  * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)(Just accepted by *Computational Material Science*)
 
 <font size=5>4. Gain Mapping of Microstructure Gas Detectors (Micromegas)</font>   
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
