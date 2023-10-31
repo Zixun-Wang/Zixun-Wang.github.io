@@ -21,7 +21,9 @@ Education
 
 Publication
 ======
-1. [**Zixun Wang**, Xingyu Wang, Xianqi Song, Xinxin Zhang, Hanyu Liu, and Miao Zhang, “Computational prediction of ideal strength for a material,” 2023.](https://arxiv.org/abs/2309.01137)(Accepted by *Computational Material Science* on Oct. 22)
+1. [**Zixun Wang**, Xingyu Wang, Xianqi Song, Xinxin Zhang, Hanyu Liu, and Miao Zhang. Computa-
+tional prediction of ideal strength for a material. Computational Materials Science, 231:112600,
+2024]([https://arxiv.org/abs/2309.01137](https://www.sciencedirect.com/science/article/pii/S0927025623005943?dgcid=coauthor))
 2. [**Zixun. Wang**, Changming Ke, Jiawei Huang, and Shi Liu, "One-dimensional III-V anti-ferroelectirc nanothreads," 2023.](https://zixun-wang.github.io/files/1D_AFE.pdf)(currently proofreading) 
 
 
@@ -44,7 +46,7 @@ Research Experience
   * *Research Assistant at Jilin University, Changchun, China*      
   * Supervisor : Professor Hanyu Liu
   * July.2022---May.2023
-  * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)(Just accepted by *Computational Material Science*)
+  * I have developed software for calculating the ideal strength of materials based on first-principles calculations, building upon the previous work of our research group. This software can compute the ideal strength of materials under arbitrary stress directions and supports simulations with different indenter shapes, such as simulating Vickers hardness. The source code has been uploaded to: [github](https://github.com/Zixun-Wang/MatElastPy)(Accepted by *Computational Material Science*)
 
 <font size=5>4. Gain Mapping of Microstructure Gas Detectors (Micromegas)</font>   
   * *Research Assistant at Shanghai Jiao Tong University, Shanghai, China*      
